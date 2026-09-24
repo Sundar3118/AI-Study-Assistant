@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Assistant",
+  "description": "A beginner-level full-stack project connecting React, Express, MongoDB, and Gemini LLM for college students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
